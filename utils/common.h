@@ -1,3 +1,5 @@
+// from https://github.com/remzi-arpacidusseau/ostep-code/blob/master/intro/common.h
+
 #ifndef __common_h__
 #define __common_h__
 
